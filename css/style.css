@@ -36,7 +36,7 @@ html {
 .navbar .logo a{
     color: #111;
     font-size: 35px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .navbar .logo a span {
     color: skyblue;
@@ -55,7 +55,7 @@ html {
 .navbar .menu li a {
     color: #111;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 600;
     margin-left: 25px;
     transition: color 0.3s ease ;
     padding-right: 10px;
@@ -132,7 +132,7 @@ a .scroll-up-btn.show {
     font-size: 30px;
     color: yellow;
     margin: 5px 0;
-    font-weight: 500;   
+    font-weight: 600;   
 }
 .home .home-content .text-3 span{
     color: black;
@@ -163,7 +163,7 @@ section .title{
     position: relative;
     text-align: center;
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 60px;
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
@@ -194,7 +194,7 @@ section .title{
     position: relative;
     text-align: center;
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 60px;
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
@@ -248,7 +248,19 @@ section .title::after{
 .about .about-content .right p{
     text-align: left;
     padding-right: 25px;
+    font-weight: 900;
+}
+.about .about-content .right a{
+    display: inline-block;
+    background: skyblue;
+    color: #fff;
+    font-size: 20px;
     font-weight: 600;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid skyblue;
+    transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
     color: skyblue;
