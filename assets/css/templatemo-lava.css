@@ -525,7 +525,7 @@ header
 
 @media (max-width: 991px) {
   .logo {
-    text-align: center;
+    text-align: left;
     float: none!important;
   }
   .header-area {
@@ -539,7 +539,7 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 0px;
+    margin-left: 5px;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -741,12 +741,13 @@ about
   border-radius: 5px;
   padding: 60px 30px;
   text-align: center;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  box-shadow: 0px 0px 10px rgba(54, 54, 54, 0.1);
 }
 
 .features-item h2 {
   z-index: 9;
   position: absolute;
+  padding-top: 60px;
   top: 15px;
   left: 45px;
   font-size: 100px;
@@ -756,6 +757,7 @@ about
 
 .features-item img {
   z-index: 10;
+  padding-top: 40px;
   position: relative;
   max-width: 100%;
   margin-bottom: 40px;
