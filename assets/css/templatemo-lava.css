@@ -959,6 +959,9 @@ footer
   footer .footer-content {
     padding: 60px 0px!important;
   }
+  .footer-content .right-content a {
+    font-size: 18px;
+  }
 }
 
 footer {
@@ -1057,6 +1060,7 @@ footer .right-content {
 }
 
 .footer-content .right-content a {
+  font-size: 20px;
   color: #FC3;
 }
 
