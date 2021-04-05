@@ -768,6 +768,7 @@ about
   font-size: 22px;
   color: orange;
   margin-bottom: 25px;
+  text-transform: uppercase;
 }
 
 .features-item .main-button {
