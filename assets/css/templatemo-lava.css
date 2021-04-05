@@ -851,6 +851,14 @@ games
   z-index: 9;
 }
 
+#games .container .row .col-lg-8 .center-heading h2 a{
+  color: #FC3;
+}
+
+#games .container .row .col-lg-8 .center-heading h2 a:hover{
+  color: skyblue;
+}
+
 #games .item {
   position: relative;
 }
