@@ -960,7 +960,7 @@ footer
     margin-top: 0px!important;
   }
   .contact-form {
-    margin-bottom: 45px;
+    margin-bottom: 15px;
   }
   footer .right-content {
     text-align: center;
@@ -988,13 +988,13 @@ footer {
 }
 
 footer .footer-content {
-  padding: 120px 0px;
+  padding: 40px 0px;
 }
 
 .contact-form {
   position: relative;
   z-index: 10;
-  padding: 45px;
+  padding: 25px;
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
@@ -1062,6 +1062,7 @@ footer .right-content {
   font-weight: 700;
   letter-spacing: 1px;
   color: black;
+  padding-top: 45px;
 }
 
 .footer-content .right-content h2 em {
