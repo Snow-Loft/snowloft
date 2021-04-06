@@ -968,8 +968,12 @@ footer
   footer .footer-content {
     padding: 60px 0px!important;
   }
+  .footer-content .right-content p a {
+    font-size: 17px;
+  }
   .footer-content .right-content a {
     font-size: 18px;
+    padding-bottom: 10px;
   }
 }
 
@@ -1057,24 +1061,32 @@ footer .right-content {
   text-transform: capitalize;
   font-weight: 700;
   letter-spacing: 1px;
+  color: black;
 }
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color: #fba70b;
+  color: #FC3;
 }
 
 .footer-content .right-content p {
-  color: #FFF;
+  color: black;
+  font-weight: 500;
+}
+
+.footer-content .right-content p a {
+  font-size: 22px;
 }
 
 .footer-content .right-content a {
-  font-size: 20px;
+  font-size: 25px;
   color: #FC3;
+  margin-bottom: 20px;
 }
 
 .footer-content .right-content a:hover {
   color: black;
+  transform: scale(1.05);
 }
 
 footer .social {
