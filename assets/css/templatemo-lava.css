@@ -1158,6 +1158,7 @@ footer .sub-footer a {
 }
 
 footer .sub-footer a:hover {
+  transition: all 0.3s ease-in;
 	color: crimson;
 }
 
