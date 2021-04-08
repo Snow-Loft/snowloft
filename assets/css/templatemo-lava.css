@@ -1086,7 +1086,7 @@ footer .right-content {
 }
 
 .footer-content .right-content a:hover {
-  color: black;
+  color: #fff;
   transform: scale(1.05);
 }
 
