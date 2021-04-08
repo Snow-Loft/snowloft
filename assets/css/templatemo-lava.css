@@ -1142,6 +1142,17 @@ footer .sub-footer {
   text-align: center;
 }
 
+footer .sub-footer i {
+  color: #FC3;
+  transform: scale(1.1);
+}
+
+footer .sub-footer i:hover {
+  transition: all 0.3s ease-in;
+  transform: scale(1.4);
+  color: crimson;
+}
+
 footer .sub-footer a {
 	color: #FC3;
 }
