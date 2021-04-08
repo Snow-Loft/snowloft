@@ -857,6 +857,25 @@ games
 }
 
 #games .container .row .col-lg-8 .center-heading h2 a:hover{
+  transition: all 0.3s ease-in;
+  color: skyblue;
+}
+
+#games .container .row .col-lg-8 .center-heading p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+  #games .container .row .col-lg-8 .center-heading p a{
+  color: #FC3;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#games .container .row .col-lg-8 .center-heading p a:hover{
+  transition: all 0.3s ease-in;
   color: skyblue;
 }
 
