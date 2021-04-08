@@ -1169,7 +1169,7 @@ footer .sub-footer i {
 footer .sub-footer i:hover {
   transition: all 0.3s ease-in;
   transform: scale(1.4);
-  color: crimson;
+  color: blue;
 }
 
 footer .sub-footer a {
@@ -1178,7 +1178,7 @@ footer .sub-footer a {
 
 footer .sub-footer a:hover {
   transition: all 0.3s ease-in;
-	color: blue;
+  color: blue;
 }
 
 footer .sub-footer p {
