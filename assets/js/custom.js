@@ -10,7 +10,7 @@
 		pagination: true,
 		autoplay: true,
 		autoplayTimeOut: 1000,
-        autoplayHoverPause: false,
+        	autoplayHoverPause: true,
 		responsive: {
 			0: {
 				items: 1
