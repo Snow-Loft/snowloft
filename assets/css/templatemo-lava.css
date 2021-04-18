@@ -907,7 +907,7 @@ games
   font-size: 13px;
 }
 
-#games .item .testimonial-content h4 {
+#games .item .testimonial-content h4 a{
   font-size: 22px;
   margin-top: 20px;
   color: #FC3;
