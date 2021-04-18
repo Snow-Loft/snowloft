@@ -8,6 +8,9 @@
 		margin: 30,
 		nav: true,
 		pagination: true,
+		autoplay: true,
+		autoplayTimeOut: 1000,
+        autoplayHoverPause: false,
 		responsive: {
 			0: {
 				items: 1
