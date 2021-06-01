@@ -824,7 +824,7 @@ promotion
 
 #promotion .right-text h4 {
   font-size: 22px;
-  color: skyblue;
+  color: #fba70b;
   margin-bottom: 15px;
   margin-top: 3px;
 }
@@ -923,7 +923,7 @@ games
 #games .item .testimonial-content span {
   color: black;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 #games .author img {
