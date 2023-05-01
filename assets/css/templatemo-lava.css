@@ -14,6 +14,10 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+img{
+  pointer-events: none;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
